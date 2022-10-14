@@ -5,21 +5,12 @@ package package1;
 public class ex17{
 	
 	public static void main(String[] args) {
-		Caller c=new Caller();
-		c.start();
-//		c.init();
+		int i=10;
+		int j=20;
+		int k=j+=i/5;
+		System.out.print(i+":"+j+":"+k);
 	
 }
 }
 
-class Caller{
-	
-	private void init() {
-		System.out.println("Initialized");
-	}
-	
-	public void start() {
-		init();
-		System.out.println("Started");
-	}
-}
+
