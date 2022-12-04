@@ -3,7 +3,7 @@ package package3;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ex8<T> {
+public class ex8 {
 	
 	
 	public static void main(String[] args) {
