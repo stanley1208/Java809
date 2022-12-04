@@ -1,7 +1,7 @@
 package package3;
 
-import java.util.Set;
-import java.util.TreeSet;
+
+
 
 public class ex6<T> {
 	
