@@ -7,7 +7,7 @@ public interface bookTest {
 	}
 }
 
-class bookStyle{
+class bookStyle1{
 	static String bn1(String name) {
 		return "java7 name="+name;
 	}
