@@ -4,7 +4,7 @@ public class test {
 
 	public static void main(String[] args) {
 		bookTest b=(String name)->"bookname="+name;
-		bookTest b2=bookStyle::bn1;
+		bookTest b2=bookStyle1::bn1;
 		
 		
 		System.out.println(b.bookName("java"));
