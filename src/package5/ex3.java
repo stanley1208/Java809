@@ -1,5 +1,7 @@
 package package5;
 
+import org.junit.Test;
+
 public class ex3 {
 
 	public static void main(String[] args) {
@@ -8,8 +10,10 @@ public class ex3 {
 	}
 
 }
+
+
 class RateOfInterest {
-	 
+	
     public static void main(String[] args) {
         int rateOfInterest = 0;
         String accountType = "LOAN";
